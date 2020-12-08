@@ -1,2 +1,2 @@
-# JoshGtts.github.io
+https://joshgtts.github.io/
 Map of my favourite destinations 
